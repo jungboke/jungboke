@@ -4,7 +4,7 @@
 ### ✔️ Solved.ac Tier
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungboke)](https://solved.ac/jungboke)
-### 📄 PortFolio
+### 📄 공부정리 및 PortFolio
 [https://zinc-radium-d33.notion.site/HOME-PortFolio-41fe8436a84f49a8b75b64bbdee58b71](https://www.notion.so/HOME-PortFolio-41fe8436a84f49a8b75b64bbdee58b71)
 
 ## 💻 Experience
