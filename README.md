@@ -1,10 +1,9 @@
 
 # 🙋‍♂️**Introduction**
-
-
-
-
-
+  
+  
+  
+  
 ## 💻 Experience
 
 | SSAFY | 2022.07. ~ |
@@ -25,7 +24,6 @@
 | Language - Useable |  |
 
 ## 📄 PortFolio
-
 [https://zinc-radium-d33.notion.site/HOME-PortFolio-41fe8436a84f49a8b75b64bbdee58b71](https://www.notion.so/HOME-PortFolio-41fe8436a84f49a8b75b64bbdee58b71)
 
 ## Cards
