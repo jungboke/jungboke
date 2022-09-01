@@ -3,8 +3,8 @@
   
 ### Solved.ac Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungboke)](https://solved.ac/jungboke/)
-  
-  
+
+
 ## 💻 Experience
 
 | SSAFY | 2022.07. ~ |
