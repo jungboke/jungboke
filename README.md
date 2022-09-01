@@ -1,8 +1,6 @@
-# 깃헙
 
 # 🙋‍♂️**Introduction**
 
----
 
 ## 💻 Experience
 
@@ -26,3 +24,8 @@
 ## 📄 PortFolio
 
 [https://zinc-radium-d33.notion.site/HOME-PortFolio-41fe8436a84f49a8b75b64bbdee58b71](https://www.notion.so/HOME-PortFolio-41fe8436a84f49a8b75b64bbdee58b71)
+
+## Cards
+
+### Solved.ac Tier
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungboke)](https://solved.ac/jungboke/)
